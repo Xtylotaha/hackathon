@@ -3,7 +3,7 @@ import casual from "@/app/public/casual.png"
 import formal from "@/app/public/formal.png"
 import party from "@/app/public/party.png"
 import gym from "@/app/public/gym.png"
-import { preloadStyle } from "next/dist/server/app-render/entry-base";
+
 
 
 export default function Dressstyle() {

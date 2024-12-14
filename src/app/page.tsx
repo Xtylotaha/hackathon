@@ -1,5 +1,4 @@
 import Newarrivals from "@/app/component/newarrivals";
-import Image from "next/image";
 import Headerup from "@/app/component/headerup";
 import Header from "@/app/component/header";
 import Couple from "@/app/component/couple";
@@ -11,7 +10,6 @@ import Dressstyle from "./component/dressstyle";
 import Reviews from "./component/Reviews";
 import Uptodate from "./component/uptodate";
 import Footer from "./component/footer";
-import Nextpage from "./component/nextpage";
 
 export default function Home() {
   return (

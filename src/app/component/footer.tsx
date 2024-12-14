@@ -9,7 +9,7 @@ export default function Footer() {
           <div className="footer-logo">
             <h2>SHOP.CO</h2>
             <p>
-              We have clothes that suit your style and which you're proud to wear. From women to men.
+              We have clothes that suit your style and which youre proud to wear. From women to men.
             </p>
             <div className="social-icons">
             {/* <Image src={Social} alt={"socials img"}/> */}
